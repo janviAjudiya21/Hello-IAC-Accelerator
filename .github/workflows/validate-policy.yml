@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   
 env:
-  AZURE_REGION: eastus2
-  RESOURCE_GROUP_NAME: Ignite2022_Demo 
+  AZURE_REGION: eastus
+  RESOURCE_GROUP_NAME: Janvi_RG
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
